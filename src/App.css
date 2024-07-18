@@ -59,7 +59,6 @@ body {
   align-items: center;
   z-index: 9999;
   /* background-color: #e8d7f1; */
-  background-color: #fff;
   padding: 0 20px;
   padding-top: 20px;
   font-size: 2.2rem;
@@ -69,16 +68,20 @@ body {
 .site-header .container {
   margin: 0 auto;
   padding: 0 1rem;
-  background-image: url('./assets/img/background.jpeg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.123), rgba(0, 0, 0, 0.63)),url('./assets/img/background.jpeg');
 }
 
 .logo img {
   height: 40px;
 }
 
-.subtitle {
+.site-header h1{
+  color: rgb(0, 0, 0);
+}
+.tagline {
   font-size: 1.2rem;
   margin-bottom: 1rem;
+  color: white;
 }
 
 .hero-navbar{
@@ -96,7 +99,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #000000;
+  color: #ffffff;
   text-decoration: none;
   font-weight: 600;
   font-size: 15px;
