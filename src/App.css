@@ -67,7 +67,6 @@ body {
 
 
 .site-header .container {
-  max-width: 1200px;
   margin: 0 auto;
   padding: 0 1rem;
   background-image: url('./assets/img/background.jpeg');
@@ -75,11 +74,6 @@ body {
 
 .logo img {
   height: 40px;
-}
-
-h1 {
-  font-size: 3rem;
-  margin: 1rem 0;
 }
 
 .subtitle {
@@ -133,13 +127,7 @@ nav ul li a {
   grid-gap: 5px;
   margin-top: 10px;
   margin-bottom: 10px;
-}
-.card-grid-2 {
-  display: grid;
-  grid-template-columns: repeat(2, 0.5fr);
-  grid-gap: 5px;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  
 }
 
 .card {
@@ -149,6 +137,8 @@ nav ul li a {
   border-radius: 4px;
   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1);
   overflow: hidden;
+  text-align: center;
+  justify-items: center;
 }
 
 .card-image {
@@ -171,6 +161,7 @@ nav ul li a {
   font-size: 14px;
   line-height: 1.5;
   margin-bottom: 16px;
+  text-align: center;
 }
 
 .card-button-beli {
@@ -257,6 +248,12 @@ nav ul li a {
     font-size: 1.5rem;
   }
 
+  .container {
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
   .header a {
     padding: 0.1rem;
     text-decoration: none;
@@ -268,25 +265,31 @@ nav ul li a {
     transition: border-color 0.3s;
   }
 
+  .header h1{
+    font-size: medium;
+  }
+
   .card-grid {
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 5px;
+    grid-gap: 6px;
   }
 
   .card {
-    width: 200px;
-    height: 320px;
+    width: 160px;
+    height: 350px;
   }
 
   .title-container {
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 4px; /* Atur jarak antara judul dan ikon */
   }
   
   .card-title {
     margin: 0;
     font-size: 14px;
+    text-align: center;
   }
   
   .premium-badge {
@@ -353,14 +356,23 @@ nav ul li a {
   }
 }
 
+.filter-container {
+  padding: 10px 15px;
+}
 
 .theme-filter label {
-  font-size: 13px;
-}
-.theme-filter label, .vip-filter span {
   font-size: 12px;
 }
+.theme-filter label, .vip-filter span {
+  font-size: 10px;
+}
 
+.theme-filter select {
+  padding: 4px 8px;
+  border: 1px solid #ccc;
+  background-color: white;
+  font-size: 12px;
+}
 .hidden {
   display: none;
 }
