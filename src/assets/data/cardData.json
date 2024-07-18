@@ -1,0 +1,30 @@
+[
+    {
+      "name": "All",
+      "templates": [
+        {
+          "theme": "Luxury",
+          "title": "Luxury 1",
+          "imageUrl": "../assets/img/luxury-1.jpg",
+          "previewUrl": "https://demo.invee.net/?template=luxury-1"
+        }
+      ]
+    },
+    {
+      "name": "Luxury",
+      "templates": [
+        {
+          "theme": "Luxury",
+          "title": "Luxury 1",
+          "imageUrl": "../assets/img/luxury1.jpg",
+          "previewUrl": "https://demo.invee.net/?template=luxury-1"
+        },
+        {
+          "theme": "Luxury",
+          "title": "Luxury 2",
+          "imageUrl": "../assets/img/luxury2.jpg",
+          "previewUrl": "https://demo.invee.net/?template=luxury-2"
+        }
+        
+      ]
+    }  ]
