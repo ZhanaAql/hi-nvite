@@ -5,7 +5,7 @@ import { RiVipCrownLine } from "react-icons/ri";
 
 
 function Card(props) {
-  const url = `https://api.whatsapp.com/send?phone=6287879995866&text=Halo%2C%20saya%20ingin%20memesan%20undangan%20web%20dari%20%2AHi-Nvite%2A%20dengan%20tema%20${props.title}.%20Bisakah%20saya%20mendapatkan%20informasi%20lebih%20lanjut%20tentang%20layanan%20yang%20Anda%20tawarkan%3F%20Terima%20kasih.`;
+  const url = `https://api.whatsapp.com/send?phone=6287879995866&text=Halo%2C%20saya%20ingin%20memesan%20undangan%20web%20dari%20%2AHi-Nvite%2A%20dengan%20tema%20%2A${props.title}%2A%.%20Bisakah%20saya%20mendapatkan%20informasi%20lebih%20lanjut%20tentang%20layanan%20yang%20Anda%20tawarkan%3F%20Terima%20kasih.`;
   return (
     <div className="card-grid">
       <div className="card">
