@@ -37,7 +37,7 @@
   }
 }
 * {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 body {
@@ -48,7 +48,7 @@ body {
 .container {
   padding: 10px;
   margin-left: 30px;
-  margin-right: 30px;
+
 }
 
 .logo {
@@ -78,11 +78,6 @@ body {
 .site-header h1{
   color: rgb(0, 0, 0);
 }
-.tagline {
-  font-size: 1.2rem;
-  margin-bottom: 1rem;
-  color: white;
-}
 
 .hero-navbar{
   padding: 20px;
@@ -111,17 +106,6 @@ nav ul li a {
   color: #fff;
   padding: 0.5rem 1rem;
   cursor: pointer;
-}
-.wedding .tema {
-  padding: 0.3rem 1rem;
-  text-decoration: none;
-  font-weight: 500;
-  color: #191d6e;
-  transition: all 0.2s ease-in-out;
-  padding-bottom: 2px;
-  border-bottom: 3px solid transparent;
-  transition: border-color 0.3s;
-  margin-right: 2rem;
 }
 
 .card-grid {
@@ -169,7 +153,7 @@ nav ul li a {
 
 .card-button-beli {
   display: inline-block;
-  background-color: #4caf50;
+  background-color: #3e9c41;
   color: #fff;
   padding: 8px 16px;
   border-radius: 15px;
@@ -184,7 +168,7 @@ nav ul li a {
 
 .card-button-preview {
   display: inline-block;
-  background-color: #4caf50;
+  background-color: #4c7faf;
   color: #fff;
   padding: 8px 16px;
   border-radius: 15px;
@@ -193,18 +177,28 @@ nav ul li a {
   margin: 5px;
 }
 
+.card-button-icon{
+  padding-right: 3px;
+}
+
 .hero {
   padding: 10vw 0;
   max-height: 50%;
 }
-.hero .hero-title{
+.hero .hero-title .title{
   text-align: center;
   margin: 0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 4rem;
+  font-family: "Merriweather", serif;
+  font-weight: 900;
+  font-style: italic;
+
 }
 
 .hero .tagline{
   font-size: small;
+  margin-bottom: 1rem;
+  color: white;
 }
 
 .hero .hero-navbar{
@@ -246,6 +240,51 @@ nav ul li a {
 .vip-filter span {
   font-size: 14px;
 }
+
+.footer {
+  background-color: #111;
+  color: #fff;
+  padding: 1rem 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.footer-credit {
+  font-size: 0.875rem;
+}
+
+.footer-links ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 1rem;
+}
+
+.footer-links ul li {
+  display: inline;
+}
+
+.footer-links ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 0.875rem;
+}
+
+.footer-links ul li a:hover {
+  text-decoration: underline;
+}
+
 @media only screen and (max-width: 600px) {
   .logo {
     font-size: 1.5rem;
@@ -301,6 +340,9 @@ nav ul li a {
     font-size: 1.2em; 
   }
 
+  .hero .hero-title .title{
+    font-size: 2rem;
+  }
 
   .card-image {
     width: 100%;
@@ -386,7 +428,7 @@ nav ul li a {
     flex-direction: column;
     align-items: flex-start;
   }
-  
+
   .theme-filter, .vip-filter {
     width: 100%;
     margin-bottom: 10px;

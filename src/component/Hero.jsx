@@ -20,7 +20,7 @@ export default function Hero() {
   }, []);
 
   return (
-    <header className="site-header">
+    <header className="site-header" id='home'>
       <div className='container'>
         <div className="logo">
           <span className="nama-logo" style={{ fontFamily: "Sacramento,  cursive"}}>Hi-nvite</span>

@@ -22,8 +22,8 @@ function Card(props) {
           <p className="card-description">
             Harga: <strong>{props.price}K</strong>/Website
           </p>
-          <a href="" className="card-button-beli">
-            <FaShoppingCart />
+          <a href="https://wa.wizard.id/fe8b4b" target="_blank" className="card-button-beli">
+            <FaShoppingCart className="card-button-icon" />
             Beli
           </a>
           <a
@@ -31,7 +31,7 @@ function Card(props) {
             className="card-button-preview"
             target="_blank"
           >
-            <FaEarthAmericas />
+            <FaEarthAmericas className="card-button-icon" />
             Preview
           </a>
         </div>
