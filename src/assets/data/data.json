@@ -256,5 +256,62 @@
         "category": "Wedding"
       }
     ]
+  },
+  {
+    "theme": "",
+    "items": [
+      {
+        "imageUrl": "khitan1",
+        "title": "Khitan 1",
+        "price": "50",
+        "previewUrl": "https://demo.invee.net/?template=khitan-1",
+        "category": "Khitan"
+      }
+    ]
+  },
+  {
+    "theme": "",
+    "items": [
+      {
+        "imageUrl": "aqiqah1",
+        "title": "Aqiqah 1",
+        "price": "50",
+        "previewUrl": "https://demo.invee.net/?template=aqiqah-1",
+        "category": "Aqiqah"
+      },
+      {
+        "imageUrl": "aqiqah2",
+        "title": "Aqiqah 2",
+        "price": "50",
+        "previewUrl": "https://demo.invee.net/?template=aqiqah-1",
+        "category": "Aqiqah"
+      }
+    ]
+  },
+  {
+    "theme": "",
+    "items": [
+      {
+        "imageUrl": "birthday1",
+        "title": "Birthday 1",
+        "price": "50",
+        "previewUrl": "https://demo.invee.net/?template=birthday-1",
+        "category": "Birthday"
+      },
+      {
+        "imageUrl": "birthday2",
+        "title": "Birthday 2",
+        "price": "50",
+        "previewUrl": "https://demo.invee.net/?template=birthday-2",
+        "category": "Birthday"
+      },
+      {
+        "imageUrl": "birthday3",
+        "title": "Birthday 3",
+        "price": "50",
+        "previewUrl": "https://demo.invee.net/?template=birthday-1",
+        "category": "Birthday"
+      }
+    ]
   }
 ]

@@ -43,6 +43,7 @@
 body {
   margin: 0;
   padding: 0;
+  height: 100%;
 }
 
 .container {
@@ -218,7 +219,7 @@ nav ul li a {
 
 /* Label for the filter */
 .filter-container label {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 600;
   margin-right: 10px;
 }
@@ -231,11 +232,11 @@ nav ul li a {
 
 /* Styling for select elements */
 .select-container select {
-  padding: 8px 12px;
+  padding: 6px 10px;
   border: 1px solid #ccc;
   border-radius: 4px;
   background-color: #fff;
-  font-size: 14px;
+  font-size: 11px;
 }
 
 .footer {
