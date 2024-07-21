@@ -1,228 +1,259 @@
 [
  
   {
-    "category": "Islamic",
+    "theme": "Islamic",
     "items": [
       {
         "imageUrl": "islamic1",
         "title": "Islamic 1",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=islamic-1"
+        "previewUrl": "https://demo.invee.net/?template=islamic-1",
+        "category": "Wedding"
       },
       {
         "imageUrl": "islamic2",
         "title": "Islamic 2",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=islamic-2"
+        "previewUrl": "https://demo.invee.net/?template=islamic-2",
+        "category": "Wedding"
       }
     ]
   },
   {
-    "category": "Traditional",
+    "theme": "Traditional",
     "items": [
       {
         "imageUrl": "traditional1",
         "title": "Traditional 1",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=traditional-1"
+        "previewUrl": "https://demo.invee.net/?template=traditional-1",
+        "category": "Wedding"
       },
       {
         "imageUrl": "traditional2",
         "title": "Traditional 2",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=traditional-2"
+        "previewUrl": "https://demo.invee.net/?template=traditional-2",
+        "category": "Wedding"
       },
       {
         "imageUrl": "traditional3",
         "title": "Traditional 3",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=traditional-3"
+        "previewUrl": "https://demo.invee.net/?template=traditional-3",
+        "category": "Wedding"
       },
       {
         "imageUrl": "traditional4",
         "title": "Traditional 4",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=traditional-4"
+        "previewUrl": "https://demo.invee.net/?template=traditional-4",
+        "category": "Wedding"
       }
     ]
   },
   {
-    "category": "Floral",
+    "theme": "Floral",
     "items": [
       {
         "imageUrl": "floral2",
         "title": "Floral 2",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=floral-2"
+        "previewUrl": "https://demo.invee.net/?template=floral-2",
+        "category": "Wedding"
       },
       {
         "imageUrl": "floral3",
         "title": "Floral 3",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=floral-3"
+        "previewUrl": "https://demo.invee.net/?template=floral-3",
+        "category": "Wedding"
       },
       {
         "imageUrl": "floral4",
         "title": "Floral 4",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=floral-4"
+        "previewUrl": "https://demo.invee.net/?template=floral-4",
+        "category": "Wedding"
       },
       {
         "imageUrl": "floral5",
         "title": "Floral 5",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=floral-5"
+        "previewUrl": "https://demo.invee.net/?template=floral-5",
+        "category": "Wedding"
       },
       {
         "imageUrl": "floral6",
         "title": "Floral 6",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=floral-6"
+        "previewUrl": "https://demo.invee.net/?template=floral-6",
+        "category": "Wedding"
       },
       {
         "imageUrl": "floral7",
         "title": "Floral 7",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=floral-7"
+        "previewUrl": "https://demo.invee.net/?template=floral-7",
+        "category": "Wedding"
       },
       {
         "imageUrl": "floral8",
         "title": "Floral",
         "price": "80",
-       "previewUrl": "https://demo.invee.net/?template=floral-8"
+       "previewUrl": "https://demo.invee.net/?template=floral-8",
+        "category": "Wedding"
       },
       {
         "imageUrl": "floral9",
         "title": "Floral 9",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=floral-9"
+        "previewUrl": "https://demo.invee.net/?template=floral-9",
+        "category": "Wedding"
       }
     ]
   },
   {
-    "category": "Luxury",
+    "theme": "Luxury",
     "items": [
       {
         "imageUrl": "luxury1",
         "title": "Luxury 1",
         "price": "100",
         "previewUrl": "https://demo.invee.net/?template=luxury-1",
-        "premium" : true
+        "premium" : true,
+        "category": "Wedding"
       },
       {
         "imageUrl": "luxury2",
         "title": "Luxury 2",
         "price": "100",
         "previewUrl": "https://demo.invee.net/?template=luxury-2",
-        "premium" : true
+        "premium" : true,
+        "category": "Wedding"
       }
     ]
   },
   {
-    "category": "Minimalist",
+    "theme": "Minimalist",
     "items": [
       {
         "imageUrl": "minimalist1",
         "title": "Minimalist 1",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=minimalist-1"
+        "previewUrl": "https://demo.invee.net/?template=minimalist-1",
+        "category": "Wedding"
       },
       {
         "imageUrl": "minimalist2",
         "title": "Minimalist 2",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=minimalist-2"
+        "previewUrl": "https://demo.invee.net/?template=minimalist-2",
+        "category": "Wedding"
       },
       {
         "imageUrl": "minimalist3",
         "title": "Minimalist 3",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=minimalist-3"
+        "previewUrl": "https://demo.invee.net/?template=minimalist-3",
+        "category": "Wedding"
       },
       {
         "imageUrl": "minimalist4",
         "title": "Minimalist 4",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=minimalist-4"
+        "previewUrl": "https://demo.invee.net/?template=minimalist-4",
+        "category": "Wedding"
       },
       {
         "imageUrl": "minimalist5",
         "title": "Minimalist 5",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=minimalist-5"
+        "previewUrl": "https://demo.invee.net/?template=minimalist-5",
+        "category": "Wedding"
       },
       {
         "imageUrl": "minimalist6",
         "title": "Minimalist ",
         "price": "100",
         "previewUrl": "https://demo.invee.net/?template=minimalist-6",
-        "premium" : true
+        "premium" : true,
+        "category": "Wedding"
       },
       {
         "imageUrl": "minimalist7",
         "title": "Minimalist 7",
         "price": "100",
         "previewUrl": "https://demo.invee.net/?template=minimalist-7",
-        "premium" : true
+        "premium" : true,
+        "category": "Wedding"
       },
       {
         "imageUrl": "minimalist8",
         "title": "Minimalist 8",
         "price": "100",
         "previewUrl": "https://demo.invee.net/?template=minimalist-8",
-        "premium" : true
+        "premium" : true,
+        "category": "Wedding"
       },
       {
         "imageUrl": "minimalist9",
         "title": "Minimalist 9",
         "price": "100",
         "previewUrl": "https://demo.invee.net/?template=minimalist-9",
-        "premium" : true
+        "premium" : true,
+        "category": "Wedding"
       },
       {
         "imageUrl": "minimalist10",
         "title": "Minimalist 10",
         "price": "100",
         "previewUrl": "https://demo.invee.net/?template=minimalist-10",
-        "premium" : true
+        "premium" : true,
+        "category": "Wedding"
       },
       {
         "imageUrl": "minimalist11",
         "title": "Minimalist 11",
         "price": "100",
         "previewUrl": "https://demo.invee.net/?template=minimalist-11",
-        "premium" : true
+        "premium" : true,
+        "category": "Wedding"
       },
       {
         "imageUrl": "minimalist12",
         "title": "Minimalist 12",
         "price": "100",
         "previewUrl": "https://demo.invee.net/?template=minimalist-12",
-        "premium" : true
+        "premium" : true,
+        "category": "Wedding"
       }
     ]
   },
   {
-    "category": "Overlay-Shadow",
+    "theme": "Overlay-Shadow",
     "items": [
       {
         "imageUrl": "overlay1",
         "title": "Overlay-Shadow 1",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=overlay-shadow-1"
+        "previewUrl": "https://demo.invee.net/?template=overlay-shadow-1",
+        "category": "Wedding"
       },
       {
         "imageUrl": "overlay2",
         "title": "Overlay-Shadow 2",
         "price": "80",
-        "previewUrl": "https://demo.invee.net/?template=overlay-shadow-2"
+        "previewUrl": "https://demo.invee.net/?template=overlay-shadow-2",
+        "category": "Wedding"
       },
       {
         "imageUrl": "overlay3",
         "title": "Overlay-Shadow 3",
         "price": "100",
         "previewUrl": "https://demo.invee.net/?template=overlay-shadow-3",
-        "premium" : true
+        "premium" : true,
+        "category": "Wedding"
       }
     ]
   }

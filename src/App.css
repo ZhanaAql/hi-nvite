@@ -204,40 +204,37 @@ nav ul li a {
 .hero .hero-navbar{
   justify-content: flex-start;
 }
-
+/* Container for the entire filter section */
 .filter-container {
   display: flex;
+  align-items: center;
   justify-content: space-between;
-  align-items: center;
-  background-color: #f5f5f5;
-  padding: 15px 20px;
-  border-radius: 8px;
   margin-bottom: 20px;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.theme-filter, .vip-filter {
-  display: flex;
-  align-items: center;
-}
-
-.theme-filter label, .vip-filter label {
+/* Label for the filter */
+.filter-container label {
+  font-size: 16px;
+  font-weight: 600;
   margin-right: 10px;
-  font-weight: bold;
 }
 
-.theme-filter select {
+/* Container for the select elements */
+.select-container {
+  display: flex;
+  gap: 10px;
+}
+
+/* Styling for select elements */
+.select-container select {
   padding: 8px 12px;
-  border-radius: 4px;
   border: 1px solid #ccc;
-  background-color: white;
-  font-size: 14px;
-}
-
-.vip-filter input[type="checkbox"] {
-  margin-right: 5px;
-}
-
-.vip-filter span {
+  border-radius: 4px;
+  background-color: #fff;
   font-size: 14px;
 }
 
@@ -457,43 +454,10 @@ nav ul li a {
   }
 }
 
-.filter-container {
-  padding: 10px 15px;
-}
-
-.theme-filter label {
-  font-size: 12px;
-}
-.theme-filter label, .vip-filter span {
-  font-size: 10px;
-}
-
-.theme-filter select {
-  padding: 4px 8px;
-  border: 1px solid #ccc;
-  background-color: white;
-  font-size: 12px;
-}
 .hidden {
   display: none;
 }
 
-/* Responsif untuk layar kecil */
-@media (max-width: 768px) {
-  .filter-container {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  .theme-filter, .vip-filter {
-    width: 100%;
-    margin-bottom: 10px;
-  }
-  
-  .theme-filter select {
-    width: 100%;
-  }
-}
 
 
 @media only screen and (min-width: 600px) and (max-width: 900px) {
