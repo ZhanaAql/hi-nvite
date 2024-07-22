@@ -12,14 +12,14 @@ export default function Footer() {
               <span className="tooltip">Whatsapp</span>
               <a href="https://wa.me/message/2WUZVJ6YA27BK1" target='_blank'><FaWhatsapp className='footer-icon'/></a>
             </div>
-            <div className="icon">
+            {/* <div className="icon">
               <span className="tooltip">Github</span>
               <a href="https://github.com/ZhanaAql" target='_blank'><FaGithub className='footer-icon'/></a>
             </div>
             <div className="icon">
               <span className="tooltip">LinkedIn</span>
               <a href="https://www.linkedin.com/in/zulfa-hana-aqliyah-592933298/" target='_blank'><FaLinkedin className='footer-icon'/></a>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="footer-credit">

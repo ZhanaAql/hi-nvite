@@ -313,5 +313,31 @@
         "category": "Birthday"
       }
     ]
+  },
+  {
+    "theme": "",
+    "items": [
+      {
+        "imageUrl": "graduation1",
+        "title": "Graduation 1",
+        "price": "50",
+        "previewUrl": "https://demo.invee.net/?template=graduation-1",
+        "category": "Graduation"
+      },
+      {
+        "imageUrl": "graduation2",
+        "title": "Graduation 2",
+        "price": "50",
+        "previewUrl": "https://demo.invee.net/?template=graduation-2",
+        "category": "Graduation"
+      },
+      {
+        "imageUrl": "graduation3",
+        "title": "Graduation 3",
+        "price": "50",
+        "previewUrl": "https://demo.invee.net/?template=graduation-1",
+        "category": "Graduation"
+      }
+    ]
   }
 ]
