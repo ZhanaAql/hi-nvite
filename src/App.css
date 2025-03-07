@@ -355,7 +355,7 @@ nav ul li a {
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 6px;
     margin: 0;
-    margin-left: 3px;
+    margin-left: 0px;
   }
 
   .card {
