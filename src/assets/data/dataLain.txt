@@ -1,0 +1,89 @@
+ {
+    "theme": "Luxury",
+    "items": [
+      {
+        "imageUrl": "luxury1",
+        "title": "Luxury 1",
+        "price": "90",
+        "previewUrl": "https://demo.invee.net/?template=luxury-1",
+        "premium" : true,
+        "category": "Wedding"
+      },
+      {
+        "imageUrl": "luxury2",
+        "title": "Luxury 2",
+        "price": "90",
+        "previewUrl": "https://demo.invee.net/?template=luxury-2",
+        "premium" : true,
+        "category": "Wedding"
+      }
+    ]
+  },
+
+
+
+   {
+        "imageUrl": "minimalist6",
+        "title": "Minimalist ",
+        "price": "90",
+        "previewUrl": "https://demo.invee.net/?template=minimalist-6",
+        "premium" : true,
+        "category": "Wedding"
+      },
+      {
+        "imageUrl": "minimalist7",
+        "title": "Minimalist 7",
+        "price": "90",
+        "previewUrl": "https://demo.invee.net/?template=minimalist-7",
+        "premium" : true,
+        "category": "Wedding"
+      },
+      {
+        "imageUrl": "minimalist8",
+        "title": "Minimalist 8",
+        "price": "90",
+        "previewUrl": "https://demo.invee.net/?template=minimalist-8",
+        "premium" : true,
+        "category": "Wedding"
+      },
+      {
+        "imageUrl": "minimalist9",
+        "title": "Minimalist 9",
+        "price": "90",
+        "previewUrl": "https://demo.invee.net/?template=minimalist-9",
+        "premium" : true,
+        "category": "Wedding"
+      },
+      {
+        "imageUrl": "minimalist10",
+        "title": "Minimalist 10",
+        "price": "90",
+        "previewUrl": "https://demo.invee.net/?template=minimalist-10",
+        "premium" : true,
+        "category": "Wedding"
+      },
+      {
+        "imageUrl": "minimalist11",
+        "title": "Minimalist 11",
+        "price": "90",
+        "previewUrl": "https://demo.invee.net/?template=minimalist-11",
+        "premium" : true,
+        "category": "Wedding"
+      },
+      {
+        "imageUrl": "minimalist12",
+        "title": "Minimalist 12",
+        "price": "90",
+        "previewUrl": "https://demo.invee.net/?template=minimalist-12",
+        "premium" : true,
+        "category": "Wedding"
+      },
+
+ {
+        "imageUrl": "overlay3",
+        "title": "Overlay-Shadow 3",
+        "price": "90",
+        "previewUrl": "https://demo.invee.net/?template=overlay-shadow-3",
+        "premium" : true,
+        "category": "Wedding"
+      }

@@ -29,7 +29,7 @@ export default function Wedding() {
               value={selectedCategory} 
               onChange={(e) => setSelectedCategory(e.target.value)}
             >
-              {['Semua Kategori', 'Wedding', 'Khitan', 'Birthday', 'Aqiqah','Graduation'].map((category) => (
+              {['Semua Kategori', 'Wedding', 'Birthday', 'Aqiqah','Graduation'].map((category) => (
                 <option key={category} value={category}>{category}</option>
               ))}
             </select>
